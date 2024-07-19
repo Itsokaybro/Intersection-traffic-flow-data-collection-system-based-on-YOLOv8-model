@@ -5,5 +5,7 @@ This is software that collects traffic flow data from drone videos of intersecti
 🚀**Vehicle trajectory display:** Visual display of vehicle trajectory data to facilitate in-depth analysis of vehicle movement patterns. <br />
 🚀**Vehicle log output:** After video analysis, the software will automatically generate a detailed traffic flow record, including the unique identification number of each vehicle and the vehicle count of each exit lane.<br />
 
+https://github.com/user-attachments/assets/79f64aa3-549e-4db2-8122-254d1b36483f
+
 ![bcfab6688d2489c1b0cbacc23716a75](https://github.com/user-attachments/assets/adea4436-c1e0-42bd-9945-f474fbd02934)
 ![7cdf08848bb40138ac2a20637b55294](https://github.com/user-attachments/assets/ca2fa017-2dc0-4d9e-a233-b2b8058af92f)
